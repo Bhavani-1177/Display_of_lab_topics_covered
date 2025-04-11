@@ -29,6 +29,3 @@ An Android app developed using Android Studio to display a list of lab topics co
 - Lab 5: Data Logging with Firebase
 
 *(You can customize this list as per your subject/course)*
-
-## 🏗️ Project Structure
-
